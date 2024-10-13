@@ -1,0 +1,8 @@
+from absrtact_main import *
+bike=Bike(2,"red")
+bike.start()
+bike.display()
+print(bike.no_of_types)
+scooty=Scooty(2)
+scooty.start()
+scooty.display()
